@@ -1,5 +1,5 @@
 # How-to-use-python-syntax-in-doing-physics-problems
-Hola Bonjour Aloha! Neska is here! Temen-temen tau gak sih? Apa itu sintaks pada pythin? Dan apa sih hubungannya sintaks ini dengan mengerjakan soal fisika?
+Hola Bonjour Aloha! Neska is here! Temen-temen tau gak sih? Apa itu sintaks pada python? Dan apa sih hubungannya sintaks ini dengan mengerjakan soal fisika?
 
 
 Python adalah bahasa pemrograman yang populer dan dibuat oleh Guido van Rossum, dan dirilis pada tahun 1991. 
